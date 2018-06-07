@@ -1,0 +1,7 @@
+D:\SimpleGames\ConsoleSnake\ConsoleSnake\obj\Debug\ConsoleSnake.csprojResolveAssemblyReference.cache
+D:\SimpleGames\ConsoleSnake\ConsoleSnake\obj\Debug\ConsoleSnake.csproj.CoreCompileInputs.cache
+D:\SimpleGames\ConsoleSnake\ConsoleSnake\bin\Debug\ConsoleSnake.exe.config
+D:\SimpleGames\ConsoleSnake\ConsoleSnake\bin\Debug\ConsoleSnake.exe
+D:\SimpleGames\ConsoleSnake\ConsoleSnake\bin\Debug\ConsoleSnake.pdb
+D:\SimpleGames\ConsoleSnake\ConsoleSnake\obj\Debug\ConsoleSnake.exe
+D:\SimpleGames\ConsoleSnake\ConsoleSnake\obj\Debug\ConsoleSnake.pdb
